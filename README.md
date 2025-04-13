@@ -14,7 +14,8 @@ Soy Alvaro Espinoza G., apasionado por la tecnología, la innovación y el desar
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Estadísticas de mi repositorio
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-espinozagarate&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-espinozagarate&layout=compact&theme=dark)
 
 ### 📫 ¿Quieres conectar conmigo?
 No dudes en escribirme o seguirme para compartir ideas y proyectos. ¡Siempre estoy abierto a colaborar!
