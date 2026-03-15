@@ -7,6 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:alvaro.espinozagarate@gmail.com)
 
 ## GitHub Stacks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvaro-EspinozaGarate&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvaro-EspinozaGarate&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-EspinozaGarate&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-EspinozaGarate&layout=compact&theme=dark)
